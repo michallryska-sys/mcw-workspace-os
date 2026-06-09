@@ -1,0 +1,10 @@
+node_modules/
+out/
+dist-installer/
+.DS_Store
+*.log
+.superpowers/
+.env.local
+.env
+vault.json
+backups/
